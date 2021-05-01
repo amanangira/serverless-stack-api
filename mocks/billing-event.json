@@ -1,0 +1,8 @@
+{
+  "body": "{\"name\": \"Aman Angira\",\"shipping\": {\"name\" : \"Awesome\",\"address\" : {\"line1\" : \"63, B-4\",\"postal_code\" : 201301,\"city\": \"noida\",\"state\": \"UP\",\"country\": \"India\"}},\"address\": {\"name\" : \"Awesome\",\"address\" : {\"line1\" : \"63, B-4\",\"postal_code\" : 201301,\"city\": \"noida\",\"state\": \"UP\",\"country\": \"India\"}},\"source\":\"tok_visa\",\"storage\":21}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
